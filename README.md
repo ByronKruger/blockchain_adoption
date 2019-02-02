@@ -21,11 +21,8 @@ We want to access our assets via a different method than traditional servers and
 * run `ipfs init` (initiates a new node)
 * run `ipfs daemon` (runs the ipfs node process)
 
-**We make a folder for our assets:**
-
-/src contains all our client-side app code
-
 **We create a directory for all our files we want to serve on IPFS:**
+* /src contains all our client-side app code
 * create a folder calles 'dist': `mkdir dist`
 
 **Using the file/folder copying tool 'rsync':**
