@@ -41,4 +41,4 @@ Add assets to IPFS:
 * publish this directory (using hash): run `ipfs name publish [hash]`
 
 Accessing fully decentralized App:
-* take hash produced after running previous command and add it after this in browser: 'https://gateway.ipfs.io/ipfs/[hash]'
+* take hash produced after running previous command and add it to address in browser: 'https://gateway.ipfs.io/ipfs/[hash]'
