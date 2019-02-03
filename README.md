@@ -1,4 +1,4 @@
-**Dependencies for basic DApp (no React.js framework)
+Dependencies for basic DApp (no React.js framework):
 1. **Node page manager** 
 	* (mk) *
 	* download @ https://nodejs.org/dist/v10.15.1/node-v10.15.1-linux-x64.tar.xz *
