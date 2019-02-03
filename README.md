@@ -1,3 +1,20 @@
+**Dependencies for basic DApp (no React.js framework)
+1. **Node page manager** 
+	* (mk) *
+	* download @ https://nodejs.org/dist/v10.15.1/node-v10.15.1-linux-x64.tar.xz *
+2. **Truffle framework**
+	* Truffle framework allows us to create the DApp on the Ethereum blockchain by providing tools to write contracts, test contracts and deploy contracts *
+	* run `npm install -g truffle` *
+3. **Ganache**
+	* Ganache is a private blockchain that runs locally for testing *
+	* download @ https://github.com/trufflesuite/ganache/releases/download/v1.3.0/ganache-1.3.0-x86_64.AppImage *
+4. **MetaMask**
+	* MetaMask extension is used to connect to the Ethereum blockchain and to interact with smart contracts *
+	* Download from the Google Chrome store *
+	* Note: MetaMask requires you to need to download the extension in order to use the DApp. This is not good for adoption. Fortmatic makes adopting DApp usage much simpler, wallets are created and transactions are signed using the user's phone numbers *
+	
+---------------------------------------------------------------------------------------------------------------------
+
 We want to access our assets via a different method than traditional servers and rather on decentralized file systems.
 
 **Making the DApp FULLY decentralized with Inter-Planetary-File-System (IPFS)**
