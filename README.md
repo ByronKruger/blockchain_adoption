@@ -8,11 +8,9 @@ Dependencies for basic DApp (no React.js framework):
 3. **Ganache**
 	* Ganache is a private blockchain that runs locally for testing
 	* download @ https://github.com/trufflesuite/ganache/releases/download/v1.3.0/ganache-1.3.0-x86_64.AppImage
-4. **MetaMask / Fortmatic**
+4. **MetaMask**
 	* MetaMask extension is used to connect to the Ethereum blockchain and to interact with smart contracts
 	* Download from the Google Chrome store
-	* Note: MetaMask requires you to need to download the extension in order to use the DApp. This is not good for adoption. Fortmatic makes adopting DApp usage much simpler, wallets are created and transactions are signed using the user's phone numbers 
-	* installing Fortmatic(mk)
 ---------------------------------------------------------------------------------------------------------------------
 
 We want to access our assets via a different method than traditional servers and rather on decentralized file systems.
