@@ -1,3 +1,15 @@
+
+Dependencies for fully decentralized modern DApp (using React.js and IPFS)
+
+* clone the DApp from this repository.
+* cd into the repository directory: run `cd <repo_name>.`.
+* install all dependencies: run `npm install` (installs all dependencies specified in package.json)
+* run the React app: run `npm start` (starts and host server locally)
+* install Ganache (private blockchain run locally on which we deploy our contract) (not necessary if we are using the better tool - Fortmatic which requires more manual contract deployment)
+* 
+
+--------------------------------------------------------------------------------------
+
 We want to access our assets via a different method than traditional servers and rather on decentralized file systems.
 
 **Making the DApp FULLY decentralized with Inter-Planetary-File-System (IPFS)**
