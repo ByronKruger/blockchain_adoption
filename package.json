@@ -35,7 +35,6 @@
   },
   "dependencies": {
     "axios": "^0.18.0",
-    // "formatic": "^1.2.1",
     "fortmatic": "^0.2.0"
   }
 }
